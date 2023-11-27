@@ -60,7 +60,8 @@
 
   @media only screen and (max-width: 600px) {
     .gif {
-        height: 50%;
-        width: 50%;
+        height: 30%;
+        width: 60%;
       }
+     
   }
