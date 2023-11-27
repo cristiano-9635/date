@@ -57,4 +57,10 @@
     background: white;
     color: #e94d58;
   }
-  
+
+  @media only screen and (max-width: 600px) {
+    .gif {
+        height: 50%;
+        width: 50%;
+      }
+  }
